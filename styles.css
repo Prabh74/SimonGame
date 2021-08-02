@@ -1,0 +1,51 @@
+/*Color codes:- #262A53 #628395  #FFA0A0  #FFE3E3 */
+
+/* tags */
+
+body{
+    background-color: #FFE3E3;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+}
+
+h1{
+    font-size: 3rem;
+    font-family: 'Dancing Script', cursive;
+    color: #628395;
+}
+
+button{
+    width: 200px;
+    height: 200px;
+    border: 2px solid #262A53;
+    margin: 5px;
+    border-radius: 10px;
+}
+
+/* Classes */
+
+.heading{
+    padding: 3%;
+}
+
+.pressed{
+    opacity: 0.7;
+    width: 190px;
+    height: 190px;
+}
+
+.footer{
+    margin: 0;
+    margin-top:50px ;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.ContactLinks{
+        margin: 0px 10px 0px;
+}
+
+
+/* IDs */
