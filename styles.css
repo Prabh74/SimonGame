@@ -14,6 +14,16 @@ h1{
     color: #628395;
 }
 
+a{
+    text-decoration: none;
+    color: #262A53;
+}
+
+a:hover{
+    text-decoration: none;
+    color: #FFA0A0;
+}
+
 button{
     width: 200px;
     height: 200px;
