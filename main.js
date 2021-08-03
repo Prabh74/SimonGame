@@ -8,6 +8,7 @@ var gameState = false;
 // main
 $(document).keypress(function(){
     if (!gameState){
+            userSeries = [];
             $("h1").text("Level "+level);
             sequence();
             gameState=true;
