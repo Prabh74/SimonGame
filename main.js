@@ -49,7 +49,7 @@ function check(indexTOCheck){
         }
     }
     else{
-        $("h1").text("GAME OVER, press key to start again");
+        $("h1").text("GAME OVER, press any keyboard key to start again");
         startOver();
     }
 }
